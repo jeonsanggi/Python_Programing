@@ -1,3 +1,5 @@
+#한수
+
 # 세자리 수 부터 한수 인지 확인하는 함수
 def check_num(num, length):
     sum = 0
